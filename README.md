@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Youssef Ahmed 👨‍💻 </h1>
 
-<p align="center">I work in website development and I specialize more in front-end web development, I have experience in dealing with computers, programming and modern web technologies, fast to learn and always love development, I can provide a lot of services to clients</p>
+<p align="center">I work in front end web development, I have experience dealing with programming and modern web technologies, I have built a lot of projects, I am a fast learner and always love to develop myself</p>
 
 - 🌱 I am currently learning Redux
 - 👯 I am looking for a job
