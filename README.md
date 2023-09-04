@@ -34,4 +34,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-ahmed-devlogs&show_icons=true&locale=en&layout=compact" alt="youssef-ahmed-devlogs" height="200" />
+</p>
 
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-ahmed-devlogs&show_icons=true&locale=en" alt="youssef-ahmed-devlogs" height="200"/>
+</p>
