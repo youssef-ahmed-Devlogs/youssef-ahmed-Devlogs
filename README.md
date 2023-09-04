@@ -15,7 +15,7 @@
 - 💬 Ask me about my experience with PHP, Laravel, JavaScript, or anything related to web development.
 
 ### 🛠 &nbsp;Tech Stack
-![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
