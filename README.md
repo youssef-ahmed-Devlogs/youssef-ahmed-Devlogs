@@ -14,7 +14,6 @@
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, JavaScript, or anything related to web development.
 
-<p align="center">
   <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-ahmed-devlogs&show_icons=true&locale=en&layout=compact" alt="youssef-ahmed-devlogs" height="150" />
 </p>
@@ -22,5 +21,4 @@
 <p>
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-ahmed-devlogs&show_icons=true&locale=en" alt="youssef-ahmed-devlogs" height="150"/>
-</p>
 </p>
