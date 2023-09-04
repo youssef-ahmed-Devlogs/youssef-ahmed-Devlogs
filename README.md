@@ -2,12 +2,12 @@
 <h3 align="center">I work in web development, and I have experience in dealing with programming and modern web technologies, and I have built a lot of projects that have increased my experience and trained me a lot, I am a fast learner and always love to develop myself.</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-ahmed-devlogs&show_icons=true&locale=en&layout=compact" alt="youssef-ahmed-devlogs" height="40" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-ahmed-devlogs&show_icons=true&locale=en&layout=compact" alt="youssef-ahmed-devlogs" height="300" />
 </p>
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-ahmed-devlogs&show_icons=true&locale=en" alt="youssef-ahmed-devlogs" height="40"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-ahmed-devlogs&show_icons=true&locale=en" alt="youssef-ahmed-devlogs" height="300"/>
 </p>
 
 <p align="left">
