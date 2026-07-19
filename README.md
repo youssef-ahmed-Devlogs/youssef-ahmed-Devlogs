@@ -1,7 +1,7 @@
 <h1 align="center">Youssef Ahmed</h1>
 
 <p align="center">
-  <b>Backend Engineer</b> · Laravel · NodeJS<br>
+  <b>Backend Engineer</b> · Laravel · Node.js<br>
   Building production systems end to end — architecture, delivery and everything after.
 </p>
 
