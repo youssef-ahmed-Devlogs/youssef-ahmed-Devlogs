@@ -40,16 +40,6 @@ For the full picture of what I've built, [LinkedIn](https://www.linkedin.com/in/
 
 ---
 
-### Public work
-
-| Repository | What it is |
-| --- | --- |
-| [**devlogs-validator**](https://github.com/youssef-ahmed-Devlogs/devlogs-validator) | A lightweight TypeScript validation library. |
-| [**laravel-payment-gateway-series**](https://github.com/youssef-ahmed-Devlogs/laravel-payment-gateway-series) | Reference implementations for integrating payment gateways in Laravel. |
-| [**algorithms-analysis**](https://github.com/youssef-ahmed-Devlogs/algorithms-analysis) | Data structures and algorithms practice, worked through in Python. |
-
----
-
 ### Stack
 
 **Languages**
