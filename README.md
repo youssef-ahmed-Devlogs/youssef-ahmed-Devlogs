@@ -1,7 +1,7 @@
 <h1 align="center">Youssef Ahmed</h1>
 
 <p align="center">
-  <b>Backend Engineer</b> · Laravel · Node.js<br>
+  <b>Backend Engineer</b> · Laravel · PHP<br>
   Building production systems end to end — architecture, delivery and everything after.
 </p>
 
@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Cairo,_Egypt-1F2937?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Open_to-Backend_roles-2DD4BF?style=flat-square" alt="Open to">
 </p>
 
 ---
@@ -47,12 +46,13 @@ For the full picture of what I've built, [LinkedIn](https://www.linkedin.com/in/
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Frameworks**
+**Technologies**
 <br>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Databases**
 <br>
@@ -71,5 +71,7 @@ For the full picture of what I've built, [LinkedIn](https://www.linkedin.com/in/
 
 ### Currently
 
-Expanding into the Node.js / NestJS ecosystem, with a longer-term focus on building
-production AI-powered applications.
+Going deeper into backend architecture — caching strategies, modular design, API contracts
+and versioning. My direction from here is AI engineering: building production-ready AI
+systems in Python, as an extension of the LLM work I already ship inside production
+applications.
