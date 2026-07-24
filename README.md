@@ -11,7 +11,7 @@
 </p>
 ---
 ### What I do
-I take backend systems from an empty repository to a live product — architecture, database
+I own backend systems from an empty repository to a live product — architecture, database
 design, features, deployment and the releases that follow.
 - **AI-powered features inside real products** — grounding LLM answers in a platform's own content, OCR search, admin-configurable prompts
 - **Payment & third-party integrations** — Paymob, MyFatoorah, Fawry, PayTabs, shipping and invoicing providers, SMS/OTP and push notification layers
