@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/youssef-ahmed-sayed">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-1F2937?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Giza,_Egypt-1F2937?style=flat-square" alt="Location">
 </p>
 
 ---
